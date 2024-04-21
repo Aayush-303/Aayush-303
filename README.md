@@ -3,7 +3,7 @@
 - 👀 I’m interested in full stack development and machine learning.
 - 🌱 I’m currently learning about advanced algorithms and deep learning techniques.
 - 💞️ I’m looking to collaborate on projects that integrate both frontend/backend development and machine learning.
-- 📫 You can reach me through my [GitHub profile](https://github.com/Aayush-303).
+- 📫 You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/aayush-gupta-2ba611233/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new hiking trails on weekends!
 
